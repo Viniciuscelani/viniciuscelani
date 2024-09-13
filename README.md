@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Vinicius</h1>
-<h3 align="center">👨‍🎓 Cursando Sistema de informação;</h3>
+<h3 align="center">👨‍🎓 Formado em Sistema de informação;</h3>
 <h3 align="center">🌱 Estudando JAVA com foco em Dev. JAVA Back End;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuscelani&label=Profile%20views&color=0e75b6&style=flat" alt="viniciuscelani" /> </p>
